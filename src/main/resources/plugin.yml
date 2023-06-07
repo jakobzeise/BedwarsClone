@@ -1,0 +1,4 @@
+name: BedwarsClone
+version: '${version}'
+main: com.jakobzeise.bedwarsclone.BedwarsClone
+api-version: 1.19
